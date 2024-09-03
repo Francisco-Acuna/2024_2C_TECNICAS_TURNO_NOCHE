@@ -2,3 +2,4 @@
 //luego mostrarlo por consola, por separado, indicando cuál es su apellido primero y 
 //luego debajo entre comillas dobles, su nombre
 //Nombre y apellido deben ir con la primer letra en mayúscula
+//Vamos a suponer, para este ejercicio, que el usuario tiene un solo nombre y un solo apellido.
