@@ -1,0 +1,4 @@
+//Crear un programa que solicite al usuario que ingrese su primer nombre y su apellido
+//luego mostrarlo por consola, por separado, indicando cuál es su apellido primero y 
+//luego debajo entre comillas dobles, su nombre
+//Nombre y apellido deben ir con la primer letra en mayúscula
